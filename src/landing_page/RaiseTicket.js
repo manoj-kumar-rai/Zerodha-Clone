@@ -1,9 +1,9 @@
 import React from 'react'
 
-function RaiseTicket() {
+function CreateTicket() {
   return (
     <div>RaiseTicket</div>
   )
 }
 
-export default RaiseTicket
+export default CreateTicket
