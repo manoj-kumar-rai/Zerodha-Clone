@@ -13,5 +13,15 @@ code {
 }
 
 .nav-link {
-  margin-right: 40px;
+  margin-left: 40px;
+}
+
+.bottom-link {
+  margin-left: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
+  text-decoration: text-;
 }
