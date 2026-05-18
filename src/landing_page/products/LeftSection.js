@@ -1,6 +1,14 @@
 import React from 'react'
 
-function LeftSection() {
+function LeftSection({
+  imageURL,
+  productName,
+  productDescription,
+  tryDemo,
+  learnMore,
+  googlePlay,
+  appStore,
+}) {
   return (
     <div>LeftSection</div>
   )

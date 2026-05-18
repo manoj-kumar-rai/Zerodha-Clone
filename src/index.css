@@ -20,8 +20,7 @@ code {
   margin-left: 40px;
 }
 
-a {
+.remove-underline-from-a-tag {
   text-decoration: none;
-  color: grey;
-  text-decoration: text-;
 }
+
