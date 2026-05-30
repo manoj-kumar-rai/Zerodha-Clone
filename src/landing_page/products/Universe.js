@@ -5,7 +5,7 @@ function Universe({productName, productDescription, learnMore, imageURL}) {
         <div className="container mt-5">
       <div className="row text-center">
 <h1>The Zerodha Universe</h1>
-        <p>
+        <p className='mt-5 mb-5'>
           Extend your trading and investment experience even further with our
           partner platforms
         </p>
@@ -37,6 +37,7 @@ function Universe({productName, productDescription, learnMore, imageURL}) {
           <p className="text-small text-muted">Insurance</p>
         </div>
         </div>
+        <button className='p-2 btn btn-primary fs-5 mb-5' style={{width:"20%", margin:"0 auto"}}>Sign up now</button>
       </div>
     </div>
   )
