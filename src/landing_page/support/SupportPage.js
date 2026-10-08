@@ -1,12 +1,12 @@
 import React from 'react'
 import Hero from '../support/Hero'
-import RaiseTicket from './RaiseTicket'
+import CreateTicket from './CreateTicket'
 
 function SupportPage() {
   return (
     <>
     <Hero />
-    <RaiseTicket />
+    <CreateTicket />
     </>
   )
 }
